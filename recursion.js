@@ -1,0 +1,2 @@
+const recursion = () => recursion();
+recursion();
